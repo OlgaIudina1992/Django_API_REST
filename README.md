@@ -1,2 +1,2 @@
-# Django_API_Tut
-Basic Django API for a tutorial
+# Django_API_REST
+Basic Django API using REST framework
